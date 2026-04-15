@@ -15,15 +15,19 @@ HuggingFace
 LangSmith
 
 **Results**
+
 System tested on:
 
 Strong Candidate
 Average Candidate
 Weak Candidate
+
 **Debugging**
+
 Errors like NameError and incorrect outputs were identified and resolved.
 
 **Note**
+
 Local model used due to API limitations.
 
 **AI-Resume-Screening-System-with-Tracing**
